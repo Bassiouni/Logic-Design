@@ -1,3 +1,0 @@
-# Summary
-
-[Assignment](./assignment.md)
