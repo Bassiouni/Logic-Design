@@ -162,8 +162,6 @@ else c=a;
 end if
 ```
 
-<https://github.com/MuhammadBasyouni/A1Q9-CPU-ASM-Code>
-
 ```asm
 .code:
   mov dx, 1010b
