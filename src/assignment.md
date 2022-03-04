@@ -97,7 +97,7 @@
 ### Fifth Generation
 
 - Used ULSI technology
-- Gave the ability of true AI development and NLP
+- Gave the ability of true AI, NLP and Computer Vision development
 - Had the advancement in pararell processing and superconductor technology
 - Had more user-friendly interface with multimedia features
 
@@ -105,13 +105,29 @@
 
 ### PC
 
+- Can't use it for compute intensive tasks
+- Has one CPU and low memory
+- Suitable for personal use and business use
+- Able to do daily personal tasks
+
 ### Workstation
+
+- Has more hardware capability than PC like in terms of storage capability, RAM size, etc.
+- More suitable for compute intensive applications
+- Not limited to 4 or 8 cores in the CPU
 
 ### Mini-computer
 
+- Midsized multi-processing system capable of supporting up to 250 users simultaneously
+
 ### Mainframe
 
+-
+
 ### Super Computer
+
+- Super fast
+- Used for AI && security
 
 ## Draw the computer architecture diagram
 
