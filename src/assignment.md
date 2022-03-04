@@ -122,7 +122,9 @@
 
 ### Mainframe
 
--
+- Large in size, expensive in price
+- Capable of supporting thousands of users simultaneously
+- Executes many programs concurrently and supports simultaneous execution of programs
 
 ### Super Computer
 
@@ -133,7 +135,19 @@
 
 ## Explain the main functions of input and output devices
 
+### Input Devices
+
+Translate data from form that humans understand to one that the computer can work with
+
+### Output Devices
+
+Pices of equipment that translate the processed information from the CPU into a form that humans can understand
+
 ## What are the basic components of CPU?
+
+- Arethmatic and Logic Unit
+- Registers
+- Control Unit
 
 ## How CPU execute the following instructions?
 
@@ -171,9 +185,23 @@ The main function of the control unit is to fetch and execute instructions from 
 
 It receives the input instruction/information from the user and converts it into control signals, which are then given to the CPU for further execution.
 
+The CU transmits coordinating control signals to other computer components.
+
 ## What is the difference between primary and secondary memories?
 
+| Primary Memory                                | Secondary Memory                               |
+|-----------------------------------------------|------------------------------------------------|
+| Higher in cost                                | Cheaper than primary memory                    |
+| Without it the computer can't run             | Without it the computer can run but can't boot |
+| Has smaller sizes compare to secondary memory | Larger in size                                 |
+| Temporarily stores date                       | permanently stores data                        |
+| Fast                                          | Slow                                           |
+
 ## List the main features of RAM and ROM memory unites?
+
+### RAM
+
+### ROM
 
 ## What is the purpose of system software?
 
