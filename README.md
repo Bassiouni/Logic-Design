@@ -133,7 +133,7 @@
 
 ## 6. Draw the computer architecture diagram
 
-![Image](https://avatars.githubusercontent.com/u/60100307?v=4)
+![Image](./img.JPG)
 
 ## 7. Explain the main functions of input and output devices
 
