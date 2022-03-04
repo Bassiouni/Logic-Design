@@ -201,8 +201,21 @@ The CU transmits coordinating control signals to other computer components.
 
 ### RAM
 
+- Primary storage
+- temporarily stores data
+- Consists of locations or cells, each one has a unique address
+
 ### ROM
+
+- Permanent storage
+- Part of memory
+- Programmed at manufacturing time
+- Its content can't be changed by users
 
 ## What is the purpose of system software?
 
+It acts as a translation layer between the applications and the hardware (aka the kernel) and enables the applications to interact with the hardware and utilize it
+
 ## What is the difference between data, information and knowledge?
+
+We process data to get information, from the information we get knowledge
