@@ -1,6 +1,6 @@
 # Logic Design - Assignment 1
 
-## What is the difference between analog and digital signals?
+## 1. What is the difference between analog and digital signals?
 
 <!-- ### Analog Signals
 
@@ -29,14 +29,14 @@
 | The analog signal bandwidth is low        | The digital signal bandwidth is high                          |
 | Analog signals are deteriorated by noise throughout transmission as well as write/read cycle | Relatively a noise-immune system without deterioration during the transmission process and write/read cycle |
 
-## List the main functionalities of computer system
+## 2. List the main functionalities of computer system
 
 - Takes date as input
 - Stores data/instructions in its memory and uses them as required
 - Processes data and converts it into useful information
 - Generates the output
 
-## What are the advantages and disadvantages of computer systems?
+## 3. What are the advantages and disadvantages of computer systems?
 
 ### Advantages
 
@@ -55,7 +55,7 @@
 - It is affected by the environment
 - It can't feel or taste
 
-## What are the main features of the first, second, third, fourth, and fifth computer generations?
+## 4. What are the main features of the first, second, third, fourth, and fifth computer generations?
 
 ### First Generation
 
@@ -101,7 +101,7 @@
 - Had the advancement in pararell processing and superconductor technology
 - Had more user-friendly interface with multimedia features
 
-## Explain the main differences between PC, workstation, mini-computer, main frame, super-computer systems
+## 5. Explain the main differences between PC, workstation, mini-computer, main frame, super-computer systems
 
 ### PC
 
@@ -131,9 +131,11 @@
 - Super fast
 - Used for AI && security
 
-## Draw the computer architecture diagram
+## 6. Draw the computer architecture diagram
 
-## Explain the main functions of input and output devices
+![Image](https://avatars.githubusercontent.com/u/60100307?v=4)
+
+## 7. Explain the main functions of input and output devices
 
 ### Input Devices
 
@@ -143,13 +145,13 @@ Translate data from form that humans understand to one that the computer can wor
 
 Pices of equipment that translate the processed information from the CPU into a form that humans can understand
 
-## What are the basic components of CPU?
+## 8. What are the basic components of CPU?
 
 - Arethmatic and Logic Unit
 - Registers
 - Control Unit
 
-## How CPU execute the following instructions?
+## 9. How CPU execute the following instructions?
 
 ```text
 int a=10;
@@ -179,7 +181,7 @@ STOP:
   ret
 ```
 
-## Explain the main operations of the control unit of CPU
+## 10. Explain the main operations of the control unit of CPU
 
 The main function of the control unit is to fetch and execute instructions from the memory of a computer.
 
@@ -187,7 +189,7 @@ It receives the input instruction/information from the user and converts it into
 
 The CU transmits coordinating control signals to other computer components.
 
-## What is the difference between primary and secondary memories?
+## 11. What is the difference between primary and secondary memories?
 
 | Primary Memory                                | Secondary Memory                               |
 |-----------------------------------------------|------------------------------------------------|
@@ -197,7 +199,7 @@ The CU transmits coordinating control signals to other computer components.
 | Temporarily stores date                       | permanently stores data                        |
 | Fast                                          | Slow                                           |
 
-## List the main features of RAM and ROM memory unites?
+## 12. List the main features of RAM and ROM memory unites?
 
 ### RAM
 
@@ -212,10 +214,14 @@ The CU transmits coordinating control signals to other computer components.
 - Programmed at manufacturing time
 - Its content can't be changed by users
 
-## What is the purpose of system software?
+## 13. What is the purpose of system software?
 
 It acts as a translation layer between the applications and the hardware (aka the kernel) and enables the applications to interact with the hardware and utilize it
 
-## What is the difference between data, information and knowledge?
+## 14. What is the difference between data, information and knowledge?
 
-We process data to get information, from the information we get knowledge
+Data are facts, we process data to get information, from the information we get knowledge
+
+---
+
+Work done by Muhammad Basyouni.
